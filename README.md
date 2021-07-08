@@ -1,5 +1,5 @@
 ```
-#  Application of Scientific Computing and Numerical Algebra
+# Application of Scientific Computing and Numerical Algebra
 ```
 
 -  Use Newton's method to solve the roots of the equation and calculate its error and convergence
